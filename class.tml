@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Title of the page </title>
+    </head>
+       <body>
+       <p> The page content<strong><em> page</em></strong> here.</p>
+       <a href="http://www.namely.com" title="link to namely.com">
+         </a>
+         <img src="" alt="JS">
+    </body>
+    </html>
